@@ -61,7 +61,7 @@ Once you enter, there will be only 2 sections
 
 ## Add
 ![alt text](https://github.com/DanielKolodziej/WebPortalRedesign/blob/master/task-analysis/itm.JPG "individual courses")
-Under course search, there will be 5 options. Instead of looking through the long list of ALL the courses offered in IIT, we will simplify to these 3 categories: Major, Humanities, Math, Science and Other classes.
+Under course search, there will be 5 options. Instead of looking through the long list of ALL the courses offered in IIT, we will simplify to these 5 categories: Major, Humanities, Math, Science and Other classes.
 
 1. Major classes
 2. Humanities classes
