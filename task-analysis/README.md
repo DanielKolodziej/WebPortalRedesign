@@ -1,6 +1,6 @@
 # Add/Drop Class Redesign
 
-## The Problem
+## Goal
 There is a lot of information that student doesn't really need, and as students, we don't pay much attention to news in different departments. Therefore, we will only leave the necessary information that is directly relevant to the student (such as news from the department that student is part of). It is a very complicated task to get to the stage where you can start picking classes. 
 We would like to simplify the process of Add/Drop classes for students by these following steps. 
 
