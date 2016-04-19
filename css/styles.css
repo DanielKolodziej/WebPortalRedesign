@@ -254,7 +254,7 @@ footer .line{
 }
 
 #menu {
-    width: 660px;
+    width: 633px;
     margin: 2em auto;
     border: 1px solid #f5f5f5;
     background-color: #f5f5f5;
@@ -284,7 +284,7 @@ footer .line{
 
 #menu a {
     float: left;
-    padding: 12px 30px;
+    padding: 12px 20px;
     color: #000000;
     text-transform: uppercase;
     font: bold 12px Arial, Helvetica;
@@ -398,7 +398,7 @@ footer .line{
 }
 
 
-@media screen and (max-width: 40em) {
+@media screen and (max-width: 40.5em) {
 
     #menu-wrap {
         position: relative;
@@ -492,13 +492,15 @@ footer .line{
     #menu ul li:first-child a:after,
     #menu ul ul li:first-child a:after {
         border: 0;
-    }       
-
+    }  
+		table{
+			margin-left: -18%;
+		}
 }
 
 @media screen and (min-width: 10em) {
     #menu {
-        display: block !important;
+       display: block !important;
     }
 }   
 
