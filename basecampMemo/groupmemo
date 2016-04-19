@@ -2,23 +2,25 @@ Our team, consisting of Daniel Kolodziej, Khang Duong, and Matt Joo, made our go
 Steps to student-user task:
 Login page-
 1) full screen-desktop
- 
+ fullogin.png
 2) minimized- phone/tablet
- 
+ minilogin.png
 Javascript login
 1) both fields wrong
- 
+ loginjsgood.png
 2) user recognized/wrong password
- 
+ loginjshalf.png
 3) successful login (user=testuser, pass=testpass)
- 
+ loginjswrong
 
 Welcome page
 1) fullscreen-desktop
- 
- 
- 
+ fullwelcome1.png
+ fullwelcome2.png
+ fullwelcome3.png
 2)minimized- phone/tablet
+miniwelcome1.png
+miniwelcome2.png
  
  
 
