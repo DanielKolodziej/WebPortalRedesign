@@ -1,0 +1,27 @@
+Our team, consisting of Daniel Kolodziej, Khang Duong, and Matt Joo, made our goal to redesign the drop/withdraw process of the myITT web portal.  Our redesign was focused on stressing  the emotional design levels; visceral, behavioral, and reflective by pruning the html, updating the css, adding user-friendly javascript, and making the site functional across all devices.  The current myIIT web portal lacks in all three of these categories, running into issues such as overcrowding, difficulty to use, not efficient, and ugly.  Our redesign solves these issues by 1) reducing/removing the unnecessary content found in the tabs especially on the login and welcome pages; 2) simplyfying the process: reducing the steps to navigate, adding clarity to the steps making it easy to find, and making the site more efficient/functional, enjoyable to use; 3) give the overall site a uplift in design bringing it a modern facelift in order improve overall appearance, orginazation of content, and actually enjoyable to look at. 
+Steps to student-user task:
+Login page-
+1) full screen-desktop
+ 
+2) minimized- phone/tablet
+ 
+Javascript login
+1) both fields wrong
+ 
+2) user recognized/wrong password
+ 
+3) successful login (user=testuser, pass=testpass)
+ 
+
+Welcome page
+1) fullscreen-desktop
+ 
+ 
+ 
+2)minimized- phone/tablet
+ 
+ 
+
+
+
+
