@@ -17,3 +17,21 @@ function myFunction() {
 		document.getElementById("password").style.background="#ff4c4c";
     }
 }
+var alertButton = document.getElementById('login');
+var textInput = document.getElementById('username');
+var passInput = document.getElementById('password');
+var siteHost = location.host;
+alertButton.addEventListener('click', function(){
+	if (textInput.value === "testuser" && passInput.value === "testpass")
+	{
+		alert("You have successfully logged in, " + textInput.value + "!");
+		location.href = siteHost + 'index.html';
+	}
+	else if(textInput.value === "testuser" && passInput.value !== "testpass")
+	{
+		alert("Error: password does not match");
+	}
+	else{
+		alert("Error: credentials not found");
+	}
+});
